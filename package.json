@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-es/ens-checklist",
+  "version": "1.0.0",
+  "description": "Herramienta de auditoria tecnica para el Esquema Nacional de Seguridad de Espana",
+  "license": "MIT",
+  "author": "TAVARDT Espana (https://ag.tavardt.com/es/)"
+}
