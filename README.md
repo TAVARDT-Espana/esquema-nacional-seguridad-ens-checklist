@@ -2,7 +2,7 @@
 
 [![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
 [![Herramientas TAVARDT](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/es/)
-[![Conformidad ENS](https://img.shields.io/badge/Espa%C3%B1a-ENS%20RD%20311%2F2022-00C853.svg)](https://ag.tavardt.com/es/cybersecurity/)
+[![Conformidad ENS](https://img.shields.io/badge/Espa%C3%B1a-ENS%20RD%20311%2F2022-00C853.svg)](https://ag.tavardt.com/es/ciberseguridad/)
 
 Herramientas de auditoría técnica, checklist de verificación y scripts de diagnóstico perimetral para el cumplimiento del **Esquema Nacional de Seguridad (ENS - Real Decreto 311/2022)** y las guías del **CCN-CERT** en España.
 
@@ -35,9 +35,9 @@ bash scripts/verificar-ens.sh --dominio ejemplo.es
 
 Compruebe el estado de su infraestructura pública en el portal técnico de TAVARDT:
 
-* [Comprobador de Cabeceras de Seguridad](https://tools.tavardt.com/es/security-headers-check/)
-* [Escáner de Archivos Expuestos](https://tools.tavardt.com/es/exposed-files-scanner/)
-* [Validador de Registro DMARC y Correo](https://tools.tavardt.com/es/dmarc-checker/)
+* [Comprobador de Cabeceras de Seguridad](https://tools.tavardt.com/es/analisis-cabeceras-seguridad/)
+* [Escáner de Archivos Expuestos](https://tools.tavardt.com/es/escaneo-archivos-expuestos/)
+* [Validador de Registro DMARC y Correo](https://tools.tavardt.com/es/verificador-dmarc-correo/)
 * [Herramientas de Ciberseguridad TAVARDT](https://tools.tavardt.com/es/)
 
-Para auditorías de certificación ENS, blindaje de servidores y pentesting avanzado en España, contacte con [TAVARDT España](https://ag.tavardt.com/es/contact/).
+Para auditorías de certificación ENS, blindaje de servidores y pentesting avanzado en España, contacte con [TAVARDT España](https://ag.tavardt.com/es/contacto/).
