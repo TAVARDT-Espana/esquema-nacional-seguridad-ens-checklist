@@ -1,4 +1,4 @@
-# Esquema Nacional de Seguridad (ENS) Checklist & Auditoría Técnica | TAVARDT España
+# Esquema Nacional de Seguridad (ENS) Checklist & Auditoría Técnica
 
 [![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
 [![Herramientas TAVARDT](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/es/)
@@ -41,3 +41,7 @@ Compruebe el estado de su infraestructura pública en el portal técnico de TAVA
 * Herramientas de Ciberseguridad TAVARDT
 
 Para auditorías de certificación ENS, blindaje de servidores y pentesting avanzado en España, contacte con **TAVARDT España**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
