@@ -6,7 +6,7 @@
 
 Herramientas de auditoría técnica, checklist de verificación y scripts de diagnóstico perimetral para el cumplimiento del **Esquema Nacional de Seguridad (ENS - Real Decreto 311/2022)** y las guías del **CCN-CERT** en España.
 
-Desarrollado y mantenido por el área de ciberseguridad corporativa de **TAVARDT España**.
+Desarrollado y mantenido por el área de ciberseguridad corporativa de **TAVARDT**.
 
 ***
 
@@ -40,7 +40,7 @@ Compruebe el estado de su infraestructura pública en el portal técnico de TAVA
 * [Validador de Registro DMARC y Correo](https://tools.tavardt.com/es/verificador-dmarc-correo/)
 * Herramientas de Ciberseguridad TAVARDT
 
-Para auditorías de certificación ENS, blindaje de servidores y pentesting avanzado en España, contacte con **TAVARDT España**.
+Para auditorías de certificación ENS, blindaje de servidores y pentesting avanzado en España, contacte con **TAVARDT**.
 
 ***
 
