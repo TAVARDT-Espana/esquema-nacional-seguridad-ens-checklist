@@ -2,6 +2,7 @@
 
 [![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
 [![Herramientas TAVARDT](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/es/)
+[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
 [![Conformidad ENS](https://img.shields.io/badge/Espa%C3%B1a-ENS%20RD%20311%2F2022-00C853.svg)](https://ag.tavardt.com/es/ciberseguridad/)
 
 Herramientas de auditoría técnica, checklist de verificación y scripts de diagnóstico perimetral para el cumplimiento del **Esquema Nacional de Seguridad (ENS - Real Decreto 311/2022)** y las guías del **CCN-CERT** en España.
